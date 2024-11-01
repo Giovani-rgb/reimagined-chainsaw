@@ -85,4 +85,4 @@ Desenvolvido por:
 
 ## Pré-visualização do Projeto 🎬
 
-![Screenshot](https://via.placeholder.com/800x400.png?text=Pré-visualização+do+Projeto)
+![Screenshot](https://ibb.co/WpxvfyT)
