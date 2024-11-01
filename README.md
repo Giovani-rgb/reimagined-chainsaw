@@ -42,12 +42,12 @@ Cada seção do site é criada por um integrante diferente, com a responsabilida
 
 Para contribuir com o projeto, siga estas etapas:
 
-1. **Clone** este repositório.
+1. **Clone** este repositório ou crie um **Fork** deste Projeto.
 2. Crie uma nova **branch** para sua seção.
 3. **Desenvolva** sua parte do conteúdo e a estilização.
 4. Envie um **pull request** para revisão.
 
-**Exemplo de Branch:** `feat/nome-secao`
+**Exemplo de Branch:** `feat/Ricardo`
 
 ```bash
 https://github.com/Giovani-rgb/reimagined-chainsaw.git
