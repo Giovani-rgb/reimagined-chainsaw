@@ -85,4 +85,5 @@ Desenvolvido por:
 
 ## Pré-visualização do Projeto 🎬
 
-![Screenshot](https://ibb.co/WpxvfyT)
+![Screenshot]
+([https://ibb.co/2Z3BFH7](https://ibb.co/2Z3BFH7))
