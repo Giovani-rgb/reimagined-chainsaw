@@ -50,8 +50,7 @@ Para contribuir com o projeto, siga estas etapas:
 **Exemplo de Branch:** `feat/nome-secao`
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-academia.git
-git checkout -b feat/nome-secao
+https://github.com/Giovani-rgb/reimagined-chainsaw.git
 ```
 
 ---
