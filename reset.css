@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Trebuchet MS", Sans-Serif;
+}
+body{
+  background-color: hsl(303.1,13.8%,61.2%);
+  color: #333;
+  line-height: 1.6;
+}
